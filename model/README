@@ -1,0 +1,10 @@
+Vi file my_model.h5 va model_checkpoint.h5 qua lon khong the up len duoc. Truy cap va hay dowload 2 file tren theo 
+duong dan link duoi day:
+
+https://drive.google.com/drive/folders/1bS99P23pPx77IWFopAKrqH3gDig0ZPz0?usp=sharing 
+
+Cau truc dat file nhu sau:
+- model
+| -- model_checkpoint.h5
+| -- my_model.h5
+| -- train_model.py
