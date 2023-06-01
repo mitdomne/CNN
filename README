@@ -1,0 +1,8 @@
+- pip install -r requirements.txt
+- run file main.py 
+- test recognized face -> face_recognition.py
+- test detected motion -> motion.py or motion_detection.py
+- run set_data.py -> set new preprocess data to train
+- run train_model.py -> train model from dataset 
+data motion save in dir "./dataset/data_motion"
+data train face in dir "./dataset/training_set " and "./dataset/test_set"
